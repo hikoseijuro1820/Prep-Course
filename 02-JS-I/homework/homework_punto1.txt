@@ -1,0 +1,37 @@
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+
+Variables:
+
+Tengo un cajón con 3 espacios en estos yo decido almacenar lo que yo quiera según como lo que desee y como lo
+necesite , cada espacio en cada cajón representa un variable. Si en el cajón 1 deseo almacenar camisas color verde 
+le estaría asignado el tipo de elementos que voy a guardar en dicho cajón,  para este  casos camisas verde.
+
+Strings:
+
+Siguiendo con el ejemplo de los cajones en el cajón 1 solo puedo almacenar camisas de color verde,  un String 
+sería una camisa de cierto tipo que solo se puede almacenar en uno de los cajones si cumple las condiciones . 
+un String  es una cadena de texto y caracteres que siempre deben estar dentro de comillas, llevándolo al ejemplo de las
+camisas hay un cajón para las camisas blancas pero solo las puedo almacenar allí si sen encuentran en su empaque.
+
+
+Funciones (argumentos, return):
+
+Supongamos que los cajones anteriormente mencionados realizan ciertas acciones, el cajón # 1 lava las camisas y el # 2 las seca . Las acciones realizadas
+por cada cajón sería lo que llamamos funciones, los argumentos son las camisas que ingresamos para que cada cajo ejecute dicha acción.
+
+Declaraciones if
+
+Es una condición que se debe cumplir para ejecutar una función , retomando la temática de los cajones el # 1 que es que lava las camisas solo ejecutara esta 
+función si y solo si las camisas ingresadas son de algodón en caso tal de que  no realiza dicha función.
+
+Valores booleanos (true, false)
+
+El un dato que solo puedo tener dos valores verdadero o falso. aplicándolo al ejemplo de los cajones seria: 
+El cajón # 1 lava  ropa ?. Solo hay dos posibles valores verdadero o falso, para este caso sería verdadero.
