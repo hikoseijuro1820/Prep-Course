@@ -330,7 +330,6 @@ function continueStatement(numero) {
         return newarray;
   }
       
-
 // No modificar nada debajo de esta línea
 // --------------------------------
 
