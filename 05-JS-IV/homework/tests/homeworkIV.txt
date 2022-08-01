@@ -1,0 +1,25 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a 
+descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos
+	* Propiedades
+	* Métodos
+	* Bucle `for…in`
+	* Notación de puntos vs notación de corchetes
+
+
+Objetos: Es algo que tiene propiedades, una camisa es un objecto y algunas de sus propiedades
+son talla y color.
+
+Propiedades: son los valores o características que puede tener un objecto.
+
+Métodos: Es una propiedad de un objecto que realiza una función. sí llevamos el caso a una lavadora. 
+esta seria el objecto su propiedades son color, marca, capacidad y su método seria sus ciclos de lavado.
+
+Bucle `for…in`: permite iterar es decir realizar varias veces un proceso sobres las propiedades un objecto.
+
+Notación de puntos vs notación de corchetes: Ambas permiten acceder a la propiedad de un objecto.
+ La notación con corchetes, a diferencia de la notación 
+con punto, puede usarse con variables. Si usas una variable con notación con corchetes,
+ la variable debe hacer referencia a una string.
